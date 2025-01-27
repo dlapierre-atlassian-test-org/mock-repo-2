@@ -1,0 +1,17 @@
+name: mock-repo-2
+id: ari:cloud:compass:73a2e07e-8f58-4758-930e-aa4f339d3d12:component/73859f7c-71d1-4023-a420-bda968bf0681/9dc0a795-a8c0-4a14-8a1f-be9a66ae0a88
+description: null
+configVersion: 1
+typeId: CAPABILITY
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/dlapierre-atlassian-test-org/mock-repo-2
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
